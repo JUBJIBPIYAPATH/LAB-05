@@ -61,14 +61,14 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
+<hr>![](https://github.com/JUBJIBPIYAPATH/LAB-05/blob/master/LAB55.PNG?raw=true)
 <hr>
 <hr>
 <hr>
 <hr>
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
-<hr>
+<hr>รูปแบบการใช้งานของอาร์กิวเมนต์ด้วยเครื่องหมาย { , } ในคำสั่งConsole.WriteLine() เป็นการกำหนดตำแน่งของค่าที่ต้องการใน Row และ column นั้น
 <hr>
 <hr>
 <hr>
