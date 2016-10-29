@@ -100,6 +100,7 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+
 ![](https://github.com/JUBJIBPIYAPATH/LAB-05/blob/master/LAB5.7.PNG?raw=true)
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
