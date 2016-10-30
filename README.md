@@ -128,3 +128,4 @@
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-05/blob/master/LAB5.10.PNG?raw=true)
